@@ -1,0 +1,27 @@
+header {
+    width: 100%;
+    height: 300%;
+    background-color: red;
+    font-weight: bold;
+}
+
+section {
+    width: 100%;
+    height: 300%;
+    background-color: blue;
+    font-style: italic;
+}
+
+article {
+    width: 100%;
+    height: 300px;
+    background-color: yellow;
+    font-size: x-small;
+}
+
+aside, footer {
+    width: 100%;
+    height: 300px;
+    background-color: green;
+    font-size:large
+}
